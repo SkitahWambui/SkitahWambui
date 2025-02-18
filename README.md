@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Skitah Wambui</h1>
-<h3 align="center">A data analyst from the capital of Africa, Nairobi</h3>
+<h3 align="center">A data analyst from the capital of Africa, Nairobi. I'll help scale your organisation using data.</h3>
 
 - 🔭 I’m currently working on [RFM and Basket Analysis](https://github.com/SkitahWambui/RFM-BASKET-ANALYSIS-USING-SQL)
 
@@ -7,9 +7,7 @@
 
 - 🤝 I’m looking for help with [Web scraping](https://github.com/SkitahWambui/Webscraping-with-Power-BI)
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/skitahwambui](https://www.datascienceportfol.io/skitahwambui)
-
-- 💬 Ask me about **Financial Analysis using Excel, Data Cleaning, Data analysis, Data Science for Business and who the best 90s rapper is (it's Biggie)**
+- 💬 Ask me about **Financial Analysis, Data Cleaning, Data analysis, Data Science for Business and who the best 90s rapper is (it's Biggie)**
 
 - 📫 How to reach me **skitahw@gmail.com**
 
